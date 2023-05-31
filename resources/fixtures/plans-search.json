@@ -1,0 +1,19 @@
+{
+    "word": "Planinho",
+    "total": 3,
+    "plans": [
+        {
+            "title": "Planinho A",
+            "duration": 4,
+            "price": 20.00
+        },{
+            "title": "Planinho B",
+            "duration": 5,
+            "price": 15.00
+        },{
+            "title": "Planinho C",
+            "duration": 6,
+            "price": 10.00
+        }
+    ]
+}
